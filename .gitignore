@@ -1,8 +1,6 @@
 .DS_Store
 node_modules
 /dist
-01-Temas.txt
-
 
 # local env files
 .env.local
@@ -22,3 +20,4 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+01-Temas.txt
