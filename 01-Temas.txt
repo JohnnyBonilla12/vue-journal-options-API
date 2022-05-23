@@ -1,0 +1,1 @@
+01 - Plantila para implementación de vuex. Ruta: src/store/'module-templates'
