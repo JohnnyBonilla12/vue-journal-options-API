@@ -1,2 +1,0 @@
-01 - Plantila para implementación de vuex: src/store/'module-templates'.
-02 - Crear un repositorio en Github y ligarlo con el proyecto: Video Udemy NO. 165. 
